@@ -85,6 +85,10 @@ This project is a simple RESTful API built using **Node.js** and **Express** tha
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/SaeqaSultani/OOP-School-Library/issues).
+Feel free to check the [issues page](https://github.com/SaeqaSultani/Hospital-API/issues).
 
-   
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+If you like this project...
+
