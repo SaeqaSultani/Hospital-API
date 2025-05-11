@@ -68,3 +68,9 @@ This project is a simple RESTful API built using **Node.js** and **Express** tha
 
 ## 📷 Screenshots
    ![screenshot](./public/images/1.PNG)
+   ![screenshot](./public/images/2.PNG)
+   ![screenshot](./public/images/3.PNG)
+   ![screenshot](./public/images/4.PNG)
+   ![screenshot](./public/images/5.PNG)
+   ![screenshot](./public/images/6.PNG)
+   ![screenshot](./public/images/7.PNG)
