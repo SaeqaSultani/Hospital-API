@@ -2,7 +2,7 @@
   {
     "_id": "5f4e4b8c9d1e8a001f8b4567",
     "name": "شفاخانه حوزوی هرات",
-    "type": "private",
+    "type": "public",
     "services": [
       "Cardiology",
       "Orthopedics",
@@ -25,5 +25,4 @@
     },
     "establishedAt": "1975-01-01"
   }
- 
 ]
