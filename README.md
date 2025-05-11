@@ -13,7 +13,8 @@ This project is a simple RESTful API built using **Node.js** and **Express** tha
 - Update hospital by ID
 - Delete hospital by ID
 
-## 📁 Project Structure
+## 🚀 Live Demo
+   [Click here to view the live demo](https://your-live-demo-link.com)
 ## 📦 Requirements
 
 - Node.js (v14+ recommended)
@@ -74,3 +75,9 @@ This project is a simple RESTful API built using **Node.js** and **Express** tha
    ![screenshot](./public/images/5.PNG)
    ![screenshot](./public/images/6.PNG)
    ![screenshot](./public/images/7.PNG)
+
+## ✍️ Author
+   **👤Saeqa Sultani**  
+   - [LinkedIn](https://www.linkedin.com/in/saeqa-sultani/)  
+   - [[GitHub](https://github.com/SaeqaSultani)
+   
