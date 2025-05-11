@@ -60,11 +60,11 @@ This project is a simple RESTful API built using **Node.js** and **Express** tha
 
 
 ## 🔍 Filters & Query Parameters (GET /hospitals)
--   ```type```: Filter hospitals by type (e.g., General, Specialist)
--  ```search```: Search by keyword in any text field
-Example:
-```bash
-/hospitals?type=Public&search=city
+    -   ```type```: Filter hospitals by type (e.g., General, Specialist)
+    -  ```search```: Search by keyword in any text field
+    Example:
+    ```bash
+    /hospitals?type=Public&search=city
 
 ## 📷 Screenshots
      ![screenshot](./public/images/1.PNG)
