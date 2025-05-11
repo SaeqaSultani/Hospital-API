@@ -67,4 +67,4 @@ Example:
 /hospitals?type=Public&search=city
 
 ## 📷 Screenshots
-     ![screenshot](./images/1.PNG)
+     ![screenshot](./public/images/1.PNG)
