@@ -67,4 +67,4 @@ This project is a simple RESTful API built using **Node.js** and **Express** tha
     /hospitals?type=Public&search=city
 
 ## 📷 Screenshots
-     ![screenshot](./public/images/1.PNG)
+   ![screenshot](./public/images/1.PNG)
