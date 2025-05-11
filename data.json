@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "5f4e4b8c9d1e8a001f8b4567",
+    "name": "شفاخانه حوزوی هرات",
+    "type": "private",
+    "services": [
+      "Cardiology",
+      "Orthopedics",
+      "Emergency"
+    ],
+    "location": {
+      "province": "هرات",
+      "district": "مرکز",
+      "address": "جاده ولایت، مقابل ریاست صحت عامه"
+    },
+    "contact": {
+      "phone": "+9379xxxxxxx",
+      "email": "info@herathospital.af",
+      "website": "http://herathospital.af"
+    },
+    "capacity": {
+      "beds": 650,
+      "doctors": 120,
+      "staff": 300
+    },
+    "establishedAt": "1975-01-01"
+  }
+ 
+]
