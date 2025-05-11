@@ -77,7 +77,14 @@ This project is a simple RESTful API built using **Node.js** and **Express** tha
    ![screenshot](./public/images/7.PNG)
 
 ## ✍️ Author
-   **👤Saeqa Sultani**  
-   - [LinkedIn](https://www.linkedin.com/in/saeqa-sultani/)  
-   - [[GitHub](https://github.com/SaeqaSultani)
+   👤 **SaeqaSultani**
+   - GitHub: [SaeqaSultani](https://github.com/SaeqaSultani)
+   - LinkedIn: [SaeqaSultani](https://www.linkedin.com/in/saeqa-sultani/)
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/SaeqaSultani/OOP-School-Library/issues).
+
    
