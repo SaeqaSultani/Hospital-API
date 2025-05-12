@@ -14,7 +14,7 @@ This project is a simple RESTful API built using **Node.js** and **Express** tha
 - Delete hospital by ID
 
 ## 🚀 Live Demo
-   [Click here to view the live demo](https://your-live-demo-link.com)
+   [Click here to view the live demo](https://hospital-api-3-3pb5.onrender.com/)
 ## 📦 Requirements
 
 - Node.js (v14+ recommended)
