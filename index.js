@@ -1,5 +1,6 @@
 import express from 'express';
 import bodyParser from 'body-parser';
+import cors from 'cors';
 import fs from 'fs';
 
 // Create an Express application
@@ -9,6 +10,13 @@ const PORT = process.env.PORT || 3000;
 // Set up the data.json file to be used as a database
 const dataJSON = JSON.parse(fs.readFileSync('data.json'));
 
+// This allows your frontend to communicate with the backend
+app.use(cors({
+  origin: [
+    'http://localhost:3000',                       // for local development
+    // 'https://your-frontend-url.vercel.app'         // deployed frontend URL
+  ]
+}));
 // Middleware to serve static files and parse request bodies
 app.use(express.static('public'));
 app.use(bodyParser.urlencoded({extended: true}));
